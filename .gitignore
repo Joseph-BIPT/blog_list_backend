@@ -1,5 +1,9 @@
 /requests
 
+# Node.js tests
+*.test.js
+/tests
+
 
 # Logs
 logs
